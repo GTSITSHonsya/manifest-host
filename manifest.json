@@ -1,7 +1,7 @@
 ﻿{
   "name": "勤怠連絡フォーム",
   "short_name": "勤怠",
-  "start_url": "/",
+  "start_url": "https://script.google.com/macros/s/AKfycbwHV3NvaZ34FvUQ8W7F4X_9b-_roNt4k1e75B0sYEmsNjgLehvfVoetCAJT8wK7Egs2Xw/exec?page=form2",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
