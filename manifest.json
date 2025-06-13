@@ -1,0 +1,20 @@
+﻿{
+  "name": "勤怠連絡フォーム",
+  "short_name": "勤怠",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=download&id=1gCprL8MsLr38GQeF7nP7vwf1fcwd_Yb1",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/uc?export=download&id=1PQwuv0YmavuhsKX5mib84EL7c9l5KfL5",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
